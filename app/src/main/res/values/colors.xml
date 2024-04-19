@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="personaje_item_name">#B054BA58</color>
+
+    <color name="letras">#4B222323</color>
+
+    <color name="vivo">#4CB350</color>
+    <color name="muerto">#6A092A</color>
+    <color name="desconocido">#47484E</color>
+
+    <color name="colorUno">#2D7CBA</color>
+
+    <color name="claro">#ece5ce</color>
+
+</resources>

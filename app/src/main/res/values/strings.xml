@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">consumoApi</string>
+    <string name="status">Status:</string>
+    <string name="species">Species:</string>
+    <string name="gender">Gender:</string>
+    <string name="leyenda">Busca tu personaje aqui</string>
+</resources>
